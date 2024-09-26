@@ -40,8 +40,7 @@ function createDocsInSubfolders(carpeta_id, templateDocId, sufix) {
   //Logger.log(carpeta_id);
   // Reemplaza por el ID de la carpeta raíz que contiene los subdirectorios
   var folderId = carpeta_id;
-  // Reemplaza por el ID del documento que deseas copiar
-  var templateDocId = '16AGqsjTJcp2trbefzB6k0IkPtw7pw-Hs';
+ 
  
   var rootFolder = DriveApp.getFolderById(folderId);
  
