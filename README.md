@@ -1,8 +1,8 @@
 # CrearCarpetasAlumnos
 
-Script para generar en una carpeta del Drive a eleccion, todas las subcarpetas con los nombres y apellidos de los alumnos, a partir de un excel que tenga dos columnas, una para el nombre y la segunda para el apellido.
+Script para generar, en una carpeta de Drive a elección, todas las subcarpetas con los nombres y apellidos de los alumnos, a partir de un Excel que tenga dos columnas: una para el nombre y otra para el apellido
 
-Opcionalmente, al final de la primera función se puede llamar a una carpeta, donde te crea una copia de un documento, por ejemplo la ficha del alumno, dentro de cada uno, con el nombre y apellido del alumno, concatenado con el sufijo, que se indique.
+Opcionalmente, al final de la primera función, se puede llamar a una carpeta, donde se crea una copia de un documento, por ejemplo, la ficha del alumno, dentro de cada una, con el nombre y apellido del alumno concatenados con el sufijo que se indique.
 
 **variables a tocar**
 · *id_carpeta*: carpeta donde quieres realizar las carpetas
